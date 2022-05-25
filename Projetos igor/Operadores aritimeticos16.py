@@ -4,7 +4,7 @@
 * : Multiplicação
 / :Divisão, com ponto Flutuante (float)
 //:Divisão, Inteira (Int)
-**:Exponenciação/ pentenciação
+**:Exponenciação/ pontenciação
 % :Ele retoma o modululo, o resto da divisão entre um número e outro.
 ():Alteração de presedencia nas contas
 """

@@ -1,10 +1,10 @@
 """"
 Operadores relacionais - Aula 4
- == igualdade > maior que 
+ == igualdade
  >= maior que ou igual a 
  < menor que 
  <= menor que igual a 
- != difente
+ != diferente
  """
 """""
 print ( 2 == 2 ) # OBS: Sinal de = repsente que uma cois é igual a outra.

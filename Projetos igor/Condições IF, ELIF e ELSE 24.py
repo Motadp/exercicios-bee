@@ -28,4 +28,6 @@ elif True:
     print('Mais uma verdade')
     print(22+22)    
 else: # O else será aplicado caso todas as informações anteriores sejam falsas.
-    print("Não é verdadeiro.")    
+    print("Não é verdadeiro.")
+
+      
